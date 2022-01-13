@@ -14,5 +14,5 @@
 
 **Ссылка на сайт**
 
-* [Ссылка на сайт](https://tinatezadova.github.io/russian-travel/index.html)
+* [russian-travel](https://tinatezadova.github.io/russian-travel/index.html)
 
