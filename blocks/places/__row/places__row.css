@@ -1,0 +1,29 @@
+.places__row {
+    display: flex;
+    margin-top: 48px;
+}
+
+
+@media screen and (max-width: 425px) {
+    .places__row {
+        flex-direction: column;
+    }
+}
+
+
+
+@media screen and (max-width: 765px) {
+    .places__row {
+        width: 100%;
+    }
+}
+
+
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .places__row {
+        display: block;
+        margin-top: 32px;
+    }
+    
+}
